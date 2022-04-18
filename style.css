@@ -1,0 +1,30 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.bdt_banner {
+  background-color: beige;
+}
+.bdt_banner img {
+  width: 32rem;
+  height: 15rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.video_container {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  background-color: beige;
+}
+
+.video_container h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text-center p-3 {
+  color: white;
+}
