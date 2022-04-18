@@ -17,7 +17,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
-  background-color: beige;
 }
 
 .video_container h2 {
@@ -27,4 +26,12 @@ body {
 
 .text-center p-3 {
   color: white;
+}
+
+.container {
+  margin-top: 4rem;
+}
+.col {
+  margin-left: auto;
+  margin-right: auto;
 }
